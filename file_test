@@ -1,0 +1,9 @@
+/bin/ls
+
+/bin/ls -l
+
+/bin/ls /etc
+
+/bin/ls /usr
+
+/bin/ls /var

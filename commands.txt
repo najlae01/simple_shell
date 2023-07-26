@@ -1,0 +1,10 @@
+/bin/ls
+
+
+  ls
+
+ls  
+
+
+
+/bin/ls
